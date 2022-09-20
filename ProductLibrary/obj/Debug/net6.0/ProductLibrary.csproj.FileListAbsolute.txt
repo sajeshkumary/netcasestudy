@@ -1,0 +1,14 @@
+D:\Projects\Training\AzureNetCore\ServiceBookingCaseStudy\ProductLibrary\bin\Debug\net6.0\ProductLibrary.deps.json
+D:\Projects\Training\AzureNetCore\ServiceBookingCaseStudy\ProductLibrary\bin\Debug\net6.0\ProductLibrary.runtimeconfig.json
+D:\Projects\Training\AzureNetCore\ServiceBookingCaseStudy\ProductLibrary\bin\Debug\net6.0\ProductLibrary.dll
+D:\Projects\Training\AzureNetCore\ServiceBookingCaseStudy\ProductLibrary\bin\Debug\net6.0\ProductLibrary.pdb
+D:\Projects\Training\AzureNetCore\ServiceBookingCaseStudy\ProductLibrary\obj\Debug\net6.0\ProductLibrary.csproj.AssemblyReference.cache
+D:\Projects\Training\AzureNetCore\ServiceBookingCaseStudy\ProductLibrary\obj\Debug\net6.0\ProductLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Training\AzureNetCore\ServiceBookingCaseStudy\ProductLibrary\obj\Debug\net6.0\ProductLibrary.AssemblyInfoInputs.cache
+D:\Projects\Training\AzureNetCore\ServiceBookingCaseStudy\ProductLibrary\obj\Debug\net6.0\ProductLibrary.AssemblyInfo.cs
+D:\Projects\Training\AzureNetCore\ServiceBookingCaseStudy\ProductLibrary\obj\Debug\net6.0\ProductLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\Training\AzureNetCore\ServiceBookingCaseStudy\ProductLibrary\obj\Debug\net6.0\ProductLibrary.dll
+D:\Projects\Training\AzureNetCore\ServiceBookingCaseStudy\ProductLibrary\obj\Debug\net6.0\refint\ProductLibrary.dll
+D:\Projects\Training\AzureNetCore\ServiceBookingCaseStudy\ProductLibrary\obj\Debug\net6.0\ProductLibrary.pdb
+D:\Projects\Training\AzureNetCore\ServiceBookingCaseStudy\ProductLibrary\obj\Debug\net6.0\ProductLibrary.genruntimeconfig.cache
+D:\Projects\Training\AzureNetCore\ServiceBookingCaseStudy\ProductLibrary\obj\Debug\net6.0\ref\ProductLibrary.dll

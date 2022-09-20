@@ -1,0 +1,14 @@
+D:\Projects\Training\AzureNetCore\ServiceBookingCaseStudy\BookingReportLibrary\bin\Debug\net6.0\BookingReportLibrary.deps.json
+D:\Projects\Training\AzureNetCore\ServiceBookingCaseStudy\BookingReportLibrary\bin\Debug\net6.0\BookingReportLibrary.runtimeconfig.json
+D:\Projects\Training\AzureNetCore\ServiceBookingCaseStudy\BookingReportLibrary\bin\Debug\net6.0\BookingReportLibrary.dll
+D:\Projects\Training\AzureNetCore\ServiceBookingCaseStudy\BookingReportLibrary\bin\Debug\net6.0\BookingReportLibrary.pdb
+D:\Projects\Training\AzureNetCore\ServiceBookingCaseStudy\BookingReportLibrary\obj\Debug\net6.0\BookingReportLibrary.csproj.AssemblyReference.cache
+D:\Projects\Training\AzureNetCore\ServiceBookingCaseStudy\BookingReportLibrary\obj\Debug\net6.0\BookingReportLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Training\AzureNetCore\ServiceBookingCaseStudy\BookingReportLibrary\obj\Debug\net6.0\BookingReportLibrary.AssemblyInfoInputs.cache
+D:\Projects\Training\AzureNetCore\ServiceBookingCaseStudy\BookingReportLibrary\obj\Debug\net6.0\BookingReportLibrary.AssemblyInfo.cs
+D:\Projects\Training\AzureNetCore\ServiceBookingCaseStudy\BookingReportLibrary\obj\Debug\net6.0\BookingReportLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\Training\AzureNetCore\ServiceBookingCaseStudy\BookingReportLibrary\obj\Debug\net6.0\BookingReportLibrary.dll
+D:\Projects\Training\AzureNetCore\ServiceBookingCaseStudy\BookingReportLibrary\obj\Debug\net6.0\refint\BookingReportLibrary.dll
+D:\Projects\Training\AzureNetCore\ServiceBookingCaseStudy\BookingReportLibrary\obj\Debug\net6.0\BookingReportLibrary.pdb
+D:\Projects\Training\AzureNetCore\ServiceBookingCaseStudy\BookingReportLibrary\obj\Debug\net6.0\BookingReportLibrary.genruntimeconfig.cache
+D:\Projects\Training\AzureNetCore\ServiceBookingCaseStudy\BookingReportLibrary\obj\Debug\net6.0\ref\BookingReportLibrary.dll
